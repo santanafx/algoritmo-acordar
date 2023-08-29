@@ -1,0 +1,15 @@
+1 - Acordar
+2 - Ir ao banheiro
+3 - Lavar o rosto
+4 - Preciso usar o vaso sanitário? Sim
+	1 - Usar o vaso sanitário
+5 - Não
+	1 - Ir até a conzinha
+	2 - Fazer ovo cozido
+6 - Estou com vontade de comer frutas? Sim
+	1 - Abrir a geladeira
+	2 - Escolher uma fruta
+	3 - Comer uma fruta
+7 - Não
+	1 - Esperar o ovo ficar cozido
+8 - Comer o ovo cozido.
